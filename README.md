@@ -11,6 +11,10 @@ A simple and user-friendly Task Manager web application built using HTML, CSS, a
 * Clean and responsive user interface
 * Visual strikethrough effect for completed tasks
 
+## Screenshots
+<img width="1352" height="636" alt="image" src="https://github.com/user-attachments/assets/99bdbb78-5728-4c27-8ed8-3423d88ee357" />
+
+
 ## Technologies Used
 
 * HTML5
